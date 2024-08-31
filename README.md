@@ -52,7 +52,7 @@ acceptance testing-projects that meet quality metrics,compliance and standards
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-The process of teachin an AI to give the most accurate information 
+The process of analysing networking protocol,management of data storage system
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 tell me something in german
